@@ -41,8 +41,8 @@ network-security-toolkit/
 
 Clone the repository:
 ```bash
-git clone https://skvirus711/wifi-vernability-scanner.git
-cd network-security-toolkit
+https://github.com/skvirus711/wifi-vernability-scanner.git
+cd wifi-vernability-scanner
 ```
 Install dependencies:
 ```bash
