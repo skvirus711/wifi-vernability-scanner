@@ -1,4 +1,4 @@
-🛡️ Network Security Toolkit
+# 🛡️ Network Security Toolkit
 
 A lightweight Python-based network security toolkit for educational purposes and authorized security assessments. This project provides useful utilities for gathering information about a network and generating basic security reports.
 
@@ -6,7 +6,7 @@ A lightweight Python-based network security toolkit for educational purposes and
 
 ---
 
-✨ Features
+# ✨ Features
 
 - 🌐 Network Host Discovery
 - 📡 Local Network Information
@@ -19,7 +19,7 @@ A lightweight Python-based network security toolkit for educational purposes and
 
 ---
 
-📂 Project Structure
+# 📂 Project Structure
 
 network-security-toolkit/
 │
@@ -37,25 +37,25 @@ network-security-toolkit/
 
 ---
 
-📦 Installation
+# 📦 Installation
 
 Clone the repository:
-
-git clone https://github.com/your-username/network-security-toolkit.git
+```bash
+git clone https://skvirus711/wifi-vernability-scanner.git
 cd network-security-toolkit
-
+```
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 ---
 
-🚀 Usage
+# 🚀 Usage
 
 Run the toolkit:
-
+```bash
 python main.py
-
+```
 Example menu:
 
 ====================================
@@ -71,7 +71,7 @@ Example menu:
 
 ---
 
-📋 Requirements
+# 📋 Requirements
 
 - Python 3.9+
 - rich
@@ -79,30 +79,30 @@ Example menu:
 - tabulate
 
 Install manually:
-
+```bash
 pip install rich tqdm tabulate
-
+```
 ---
 
-🛡️ Security Notice
+# 🛡️ Security Notice
 
 Use this project only on systems and networks where you have authorization. Unauthorized scanning or testing may violate laws or policies.
 
 ---
 
-🤝 Contributing
+# 🤝 Contributing
 
 Pull requests and suggestions are welcome. Feel free to open an issue if you find a bug or have an idea for improvement.
 
 ---
 
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-⭐ Support
+# ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
