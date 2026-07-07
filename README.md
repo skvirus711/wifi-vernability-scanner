@@ -19,21 +19,6 @@ A lightweight Python-based network security toolkit for educational purposes and
 
 ---
 
-# 📂 Project Structure
-
-network-security-toolkit/
-│
-├── main.py
-├── modules/
-│   ├── scanner.py
-│   ├── portscanner.py
-│   ├── ipinfo.py
-│   ├── report.py
-│   └── banner.py
-├── reports/
-├── requirements.txt
-├── README.md
-└── LICENSE
 
 ---
 
