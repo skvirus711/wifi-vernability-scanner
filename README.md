@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 Run the toolkit:
 ```bash
-python main.py
+python3 main.py
 ```
 Example menu:
 
